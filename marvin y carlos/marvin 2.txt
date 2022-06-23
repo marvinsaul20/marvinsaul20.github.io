@@ -1,0 +1,78 @@
+<html>
+<head>
+<title>MC 2</title>
+</head>
+<style>
+.button{ 
+background-color:#D0ECE7; 
+border: nome;
+ color: white;
+ padding: 20px 34px;
+ text-align: center,
+ text-decoration:nome;
+ display: inline-block;
+ font-size: 20px;
+ margin: 4px 2 px 
+cursor: pointer;
+}
+</style>
+<a href="marvin.html"><p style="color 19CAA2; font-s1ze=25px" class="button">inicio</a>
+<style>
+.button{ 
+background-color:#A9DFBF; 
+border: nome;
+ color: white;
+ padding: 20px 34px;
+ text-align: center,
+ text-decoration:nome;
+ display: inline-block;
+ font-size: 20px;
+ margin: 4px 2 px 
+cursor: pointer;
+}
+</style>
+<a href="marvin 2.html"><p style="color 19CAA2; font-s1ze=25px" class="button">categoria 1</a>
+<style>
+.button{ 
+background-color:#7DCEA0; 
+border: nome;
+ color: white;
+ padding: 20px 34px;
+ text-align: center,
+ text-decoration:nome;
+ display: inline-block;
+ font-size: 20px;
+ margin: 4px 2 px 
+cursor: pointer;
+}
+</style>
+<a href="marvin 3.html"><p style="color 19CAA2; font-s1ze=25px" class="button">categoria 2</a>
+<style>
+.button{ 
+background-color:#58D68D; 
+border: nome;
+ color: white;
+ padding: 20px 34px;
+ text-align: center,
+ text-decoration:nome;
+ display: inline-block;
+ font-size: 20px;
+ margin: 4px 2 px 
+cursor: pointer;
+}
+</style>
+<a href="marvin 4.html"><p style="color 19CAA2; font-s1ze=25px" class="button">categoria 3</a>
+
+<body bgcolor="#e9dc43"><center><h1>CATEGORIA 1</h1></center>
+<IMG SRC="VW2.jpg" height="250">
+<h2>VW T-ROC 2022  $468 000</h2> 
+<P>Lo que más llama la atención es la mirada que estrenan. Los faros tienen una forma diferente, al igual que la luz diurna, que puede ir en la parrilla, como ya hacen Golf y Polo; de esta forma, el todocamino adapta su expresión al nuevo lenguaje de diseño de VW que tan controvertido está resultando. Detrás, los pilotos han sido oscurecidos para dar una imagen más deportiva. En opción, faros y pilotos pueden llevar la tecnología IQ Light, que amplía las opciones de visibilidad y de personalización. También cambian los paragolpes y los juegos de llantas (17, 18 y 19 pulgadas).</P>
+<IMG SRC="VW3.jpg" height="250">
+<h2>VW VIRTUS 1.6L  $334 990</h2>
+<P>El precio aquí establecido corresponde a operaciones de contado en Moneda Nacional de los Estados Unidos Mexicanos, las cuales incluyen el 16% de Impuesto al Valor Agregado (IVA) y el Impuesto Sobre Autos Nuevos. Los impuestos pueden cambiar conforme a la normativa aplicable vigente. Para conocer los precios en zonas fronterizas de acuerdo al DECRETO de estímulos fiscales región fronteriza norte publicado en el Diario Oficial de la Federación el 31 de diciembre de 2018, se recomienda acudir a los Distribuidores autorizados Volkswagen ubicados en dichas zonas. Precios de contado vigentes del 1 al 31 de marzo de 2022 para la República Mexicana.</P>
+<IMG SRC="VW4.jpg" height="250">
+<h2>VW POLO GTI    $214 999</h2>
+<P>El interior conserva detalles clásicos de la familia GTI, como la trama de su tapicería en tela y múltiples insertos rojos decorativos. Volante, asientos y palanca de cambios son exclusivos para esta versión, que al ser el tope de gama también recibe la dosis de equipamiento más alta.</P>
+
+</body>
+</html>

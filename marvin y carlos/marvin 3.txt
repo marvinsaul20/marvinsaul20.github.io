@@ -1,0 +1,84 @@
+<html>
+<head>
+<title>MC3</title>
+</head>
+<style>
+.button{ 
+background-color:#D0ECE7; 
+border: nome;
+ color: white;
+ padding: 20px 34px;
+ text-align: center,
+ text-decoration:nome;
+ display: inline-block;
+ font-size: 20px;
+ margin: 4px 2 px 
+cursor: pointer;
+}
+</style>
+<a href="marvin.html"><p style="color 19CAA2; font-s1ze=25px" class="button">inicio</a>
+<style>
+.button{ 
+background-color:#A9DFBF; 
+border: nome;
+ color: white;
+ padding: 20px 34px;
+ text-align: center,
+ text-decoration:nome;
+ display: inline-block;
+ font-size: 20px;
+ margin: 4px 2 px 
+cursor: pointer;
+}
+</style>
+<a href="marvin 2.html"><p style="color 19CAA2; font-s1ze=25px" class="button">categoria 1</a>
+<style>
+.button{ 
+background-color:#7DCEA0; 
+border: nome;
+ color: white;
+ padding: 20px 34px;
+ text-align: center,
+ text-decoration:nome;
+ display: inline-block;
+ font-size: 20px;
+ margin: 4px 2 px 
+cursor: pointer;
+}
+</style>
+<a href="marvin 3.html"><p style="color 19CAA2; font-s1ze=25px" class="button">categoria 2</a>
+<style>
+.button{ 
+background-color:#58D68D; 
+border: nome;
+ color: white;
+ padding: 20px 34px;
+ text-align: center,
+ text-decoration:nome;
+ display: inline-block;
+ font-size: 20px;
+ margin: 4px 2 px 
+cursor: pointer;
+}
+</style>
+<a href="marvin 4.html"><p style="color 19CAA2; font-s1ze=25px" class="button">categoria 3</a>
+
+<body bgcolor="#fcf87f"><center><h1>CATEGORIA 2</h1></center>
+<IMG SRC="VW6.jpg" height="250">
+<h2>VW TIGUAN 2021  $549 990</h2> <p>Motor 2.0 L TSI con tracción 4MOTION
+Vive la potencia en familia
+Conducir al lado de los tuyos siempre es una experiencia divertida, pero hacerlo con un motor 2.0 L TSI con sistema 4MOTION, es aún mejor. El selector de modos de manejo y la tracción 4x4, te permitirá descubrir y realizar aventuras al lado de tu familia en terrenos totalmente nuevos para ustedes. Descubre el increíble manejo que ofrece Nuevo Tiguan y vive con emoción todos tus viajes. </p>
+<IMG SRC="VW7.jpg" height="250">
+<h2>VW JETTA GLI 2022  $598 990</h2><p>Motor 2.0L TSI 230 Hp / 350 Nm
+Adrenalina y emoción
+Cuando estás al volante, todo se traduce a trayectos repletos de diversión y asombrosas sensaciones. Gracias al motor 2.0L TSI con 230 Hp y 350 Nm, no querrás bajar nunca de tu vehículo.
+
+No hay mejor complemento para el motor de tu próximo Jetta GLI que su asombrosa transmisión DSG de 7 velocidades. Es incomparable al momento de hacer los cambios para que disfrutes con emoción cada camino en ciudad o carretera.</p>
+<IMG SRC="VW8.jpg" height="250">
+<h2>VW GOLF GTI OETTINGER 2022  $687 990</h2><p>El Volkswagen Golf GTI es ya un coche legendario, le pese a quien le pese. 46 años de historia respaldan su éxito desde aquella ocasión en 1975 cuando se exhibió por primera vez en el Auto Show de Frankfurt.
+
+Lo curioso con este auto es que ni siquiera estaba planeado oficialmente, su desarrollo se hizo en secreto por un grupo de trabajadores de Volkswagen que impulsados por su pasión aplicaron un claro ejemplo del “es mejor pedir perdón que permiso”. Para su fortuna, la idea que tuvieron fue aprobada y después se convirtió en un éxito mundial, por ello no es sorpresa que el GTI sea el encargado de cerrar con broche de oro la historia del Golf en México. Acompáñanos a conocer al Volkswagen Golf GTI Oettinger.</p>
+
+
+
+</html>
